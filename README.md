@@ -9,11 +9,11 @@ A Normal / Basic Bot That Cover All Basic Features / Commands For Beginners In C
 
 # Links
 Github.com : [Click Me](https://github.com/LegendaryEmoji/Norbo)  
-Glitch.com : Coming Soon! | [How To Remix?](https://hatebin.com/kyaspqujfj)  
-Repl.it : Coming Soon!
+Glitch.com : [Remix Project](https://glitch.com/edit/#!/remix/norbo-bot) | [How To Remix?](https://hatebin.com/kyaspqujfj)  
+Repl.it : [Click Me](https://repl.it/@LegendaryEmoji/Norbo)
 
 # How To Start
-* Before You Start You Need To Install These Packages [How To Install?](https://hatebin.com/hswiwcyfqe) :
+* Before You Start You Need To Install These Packages [How To Install?](https://hatebin.com/hswiwcyfqe) [Ignore If You're Repl Or Glitch User] :
 discord.js, fs, figlet, node-fetch, util
 * If You Don't Install These Packages, You Will Get Errors | Module Not Found!  
 * Done? Packages Installed? Now Read This!  
