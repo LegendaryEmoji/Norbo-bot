@@ -1,0 +1,26 @@
+{
+  "name": "norbo",
+  "version": "1.0.0",
+  "description": "A Basic Bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/LegendaryEmoji/Norbo"
+  },
+  "keywords": [
+    "Discord.js",
+    "Bot"
+  ],
+  "author": "Legendary Emoji#1742",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "util": "^0.12.3"
+  }
+}
