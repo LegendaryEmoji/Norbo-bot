@@ -43,7 +43,7 @@ By Donating, It Will Help Us To Keep Improving & Updating Bot Source Code So Eve
 * Bitcoin : Coming Soon!
 
 # Credit
-260s b⃢ot.#0355 | Command Handler & Help Command
+260s#0355 | Command Handler & Help Command
 
 # Who Is Creator?
 Legendary Emoji#1742
