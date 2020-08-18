@@ -13,7 +13,7 @@ module.exports = {
 
         //Start
 
-        message.channel.send(`Pong - ${client.ws.ping}`)
+        message.channel.send(`Pong - ${Math.floor(client.ws.ping)}ms`)
 
         //End
 
