@@ -17,8 +17,8 @@ Repl.it : [Click Me](https://repl.it/@LegendaryEmoji/Norbo)
 discord.js, fs, figlet, node-fetch, util
 * If You Don't Install These Packages, You Will Get Errors | Module Not Found!  
 * Done? Packages Installed? Now Read This!  
-Install Node.js For Desktop [Ignore If You're Glitch User] : [12.18.3](https://nodejs.org/en/)  
-Install Visual Studio Code [Ignore If You're Glitch User] : [1.47](https://code.visualstudio.com/) | Use : To On Bot And Editor  
+Install Node.js For Desktop [Ignore If You're Repl Or Glitch User] : [12.18.3](https://nodejs.org/en/)  
+Install Visual Studio Code [Ignore If You're Repl Or Glitch User] : [1.47](https://code.visualstudio.com/) | Use : To On Bot And Editor  
 Go To config.js File And Enter Your Information!  
 Token = `Put Your Bot Token Here | Check Before For Guide To Get Your Bot Token!`  
 Prefix = `Put Your Bot Prefix Here!`  
@@ -71,5 +71,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 
-# More!
+# Change Logs
+[Norbo v2](https://hatebin.com/ypqmunztza)
+
+# Run On Repl!
 [![Run on Repl.it](https://repl.it/badge/github/LegendaryEmoji/Norbo)](https://repl.it/github/LegendaryEmoji/Norbo)
