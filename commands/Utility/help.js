@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const { MessageEmbed } = require("discord.js");
 const { Color, Prefix } = require("../../config.json");
+if (Prefix === null) Prefix = `!`;
 
 module.exports = {
   name: "help",
@@ -25,9 +26,9 @@ module.exports = {
       .setColor(Color)
       .setTitle(`${client.user.username} Help Section!`)
       .setDescription(`Please Use ${Prefix}Help <Command Name> For More Command Information!`)
-      .addField(`${Prefix}Help Fun`, `Get Fun Category Commands!`, true)
-      .addField(`${Prefix}Help Moderation (Mod)`, `Get Moderation Category Commands!`, true)
-      .addField(`${Prefix}Help Utility (Util)`, `Get Utility Category Commands!`, true)
+      .addField(`${Prefix}Help Fun`, `Get Fun Category Commands!`)
+      .addField(`${Prefix}Help Moderation (Mod)`, `Get Moderation Category Commands!`)
+      .addField(`${Prefix}Help Utility (Util)`, `Get Utility Category Commands!`)
       .setFooter(`Requested by ${message.author.username}`)
       .setTimestamp();
 
