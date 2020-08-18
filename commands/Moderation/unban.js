@@ -5,7 +5,7 @@ const { Color } = require("../../config.json");
 module.exports = {
     name: "unban",
     aliases: null,
-    category: "fun",
+    category: "moderation",
     description: "Unban A Member!",
     usage: "Unban <Member ID>",
     accessableby: "everyone",
@@ -37,7 +37,7 @@ module.exports = {
         try {
             message.guild.members.unban(Member.user.id, Reason)
         } catch(error) {
-            return message.channel.send(`I Can't Unban That Member Maybe Member Is Not Banned Or I Don't Have Permission!`)
+            return message.channel.send(`I Can't Unban That Member Maybe Member Is Not Banned Or Some Error!`)
         }
 
         let embed = new MessageEmbed()
