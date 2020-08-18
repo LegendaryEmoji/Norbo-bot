@@ -43,8 +43,9 @@ By Donating, It Will Help Us To Keep Improving & Updating Bot Source Code So Eve
 * Bitcoin : Coming Soon!
 
 # Credit
-260s#0355 | Command Handler & Gay Command & Help Command!
-CTK WARRIOR#7923 | Function To Check Stuff!
+260s#0355 | Command Handler & Gay Command & Help Command!  
+CTK WARRIOR#7923 | Function To Check Stuff!  
+{°^°}Kall766{°^°}#0016  
 
 # Who Is Creator?
 Legendary Emoji#1742
@@ -73,7 +74,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 
 # Change Logs
-[Norbo v2](https://hatebin.com/ypqmunztza)
+[Norbo v2](https://hatebin.com/sdqmvncemv)
 
 # Run On Repl!
 [![Run on Repl.it](https://repl.it/badge/github/LegendaryEmoji/Norbo)](https://repl.it/github/LegendaryEmoji/Norbo)
