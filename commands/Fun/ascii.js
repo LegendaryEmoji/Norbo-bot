@@ -6,32 +6,33 @@ const { promisify } = require("util");
 const figletAsync = promisify(figlet);
 
 module.exports = {
-    name: "ascii",
-    aliases: null,
-    category: "fun",
-    description: "Ascii!",
-    usage: "Ascii <Text>",
-    accessableby: "everyone",
-    run: async (client, message, args) => {
+  name: "ascii",
+  aliases: null,
+  category: "fun",
+  description: "Ascii Art!",
+  usage: "Ascii <Text>",
+  accessableby: "everyone",
+  run: async (client, message, args) => {
+    //Start
 
-        //Start
+    let Content = args.join(" ");
 
-        let Content = args.join(" ");
+    if (!Content) return message.channel.send(`Please Give Me Text!`);
 
-        if (!Content) return message.channel.send(`Please Give Me Text!`);
+    if (args.length === 1) return message.channel.send(`1 Word Really?`);
 
-        if (Content.length > 20) return message.channel.send(`Please Make Shorter! | Limit : 20`);
+    if (Content.length > 20)
+      return message.channel.send(`Please Make Shorter! | Limit : 20`);
 
-        let Result = await figletAsync(Content);
+    let Result = await figletAsync(Content);
 
-        let embed = new MessageEmbed()
-        .setColor(Color)
-        .setDescription("```" + Result + "```")
-        .setTimestamp();
+    let embed = new MessageEmbed()
+      .setColor(Color)
+      .setDescription("```" + Result + "```")
+      .setTimestamp();
 
-        message.channel.send(embed);
+    message.channel.send(embed);
 
-        //End
-
-    }
+    //End
+  }
 };
