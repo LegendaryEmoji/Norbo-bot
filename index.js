@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 const { Prefix, Token, Owner_ID, Color } = require("./config.json");
+if (Prefix === null) Prefix = `!`;
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
@@ -61,6 +62,7 @@ client.on('message', message => {
       client.commands.get(client.aliases.get(cmd.slice(Prefix.length)));
 
     if (command) {
+      if (!message.guild.me.hasPermission("ADMINISTRATOR")) return message.channel.send(`I Don't Have Permission To Use This Or Any Command! | Require : Administrator / Admin`)
         command.run(client, message, args);
     }} catch (error) {
         console.log(error);
