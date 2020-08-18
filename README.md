@@ -45,7 +45,7 @@ By Donating, It Will Help Us To Keep Improving & Updating Bot Source Code So Eve
 # Credit
 260s#0355 | Command Handler & Gay Command & Help Command!  
 CTK WARRIOR#7923 | Function To Check Stuff!  
-{°^°}Kall766{°^°}#0016  
+{°^°}Kall766{°^°}#0016 | Kick & Ban!  
 
 # Who Is Creator?
 Legendary Emoji#1742
