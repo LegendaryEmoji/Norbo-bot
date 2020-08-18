@@ -43,7 +43,8 @@ By Donating, It Will Help Us To Keep Improving & Updating Bot Source Code So Eve
 * Bitcoin : Coming Soon!
 
 # Credit
-260s#0355 | Command Handler & Help Command
+260s#0355 | Command Handler & Gay Command & Help Command!
+CTK WARRIOR#7923 | Function To Check Stuff!
 
 # Who Is Creator?
 Legendary Emoji#1742
