@@ -8,9 +8,9 @@ A Normal / Basic Bot That Cover All Basic Features / Commands For Beginners In C
 [Guide To Download](https://hatebin.com/zlziklnjqz)  
 
 # Links
-Github.com : [Click Me](https://github.com/LegendaryEmoji/Norbo)  
+Github.com : [Click Me](https://github.com/LegendaryEmoji/Norbo-bot)  
 Glitch.com : [Remix Project](https://glitch.com/edit/#!/remix/norbo-bot) | [How To Remix?](https://hatebin.com/kyaspqujfj)  
-Repl.it : [Click Me](https://repl.it/@LegendaryEmoji/Norbo)
+Repl.it : [Click Me](https://repl.it/@LegendaryEmoji/Norbo-bot)
 
 # How To Start
 * Before You Start You Need To Install These Packages [How To Install?](https://hatebin.com/hswiwcyfqe) [Ignore If You're Repl Or Glitch User] :
@@ -30,17 +30,12 @@ Color = `Put All Embed Messages Color!`
 * Discord.js Official Guide : [Click Me](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
 
 # Support
-Discord Server : Coming Soon!
-
-# Report & Suggestion
-Before Reporting Or Suggesting Something Make Sure Its Not Already Reported Or Suggested By Someone  
-* Report Something : Coming Soon!  
-* Suggest Something : Coming Soon!
+Discord Server : No Support!
 
 # Donate
 By Donating, It Will Help Us To Keep Improving & Updating Bot Source Code So Everyone Can Use It Without Any Problem!
-* Paypal : Coming Soon!
-* Bitcoin : Coming Soon!
+* Paypal : [Click Me](https://www.paypal.com/paypalme/legendaryemoji)
+* Patreon : [Click Me](https://www.patreon.com/LegendaryEmoji)
 
 # Credit
 260s#0355 | Command Handler & Gay Command & Help Command!  
@@ -77,4 +72,4 @@ SOFTWARE
 [Norbo v2](https://hatebin.com/sdqmvncemv)
 
 # Run On Repl!
-[![Run on Repl.it](https://repl.it/badge/github/LegendaryEmoji/Norbo)](https://repl.it/github/LegendaryEmoji/Norbo)
+[![Run on Repl.it](https://repl.it/badge/github/LegendaryEmoji/Norbo-bot)](https://repl.it/github/LegendaryEmoji/Norbo-bot)
