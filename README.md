@@ -1,4 +1,7 @@
 # Norbo
+
+NOTE: I AM NOT PROVIDING ANY SUPPORT FOR THIS, YOU CAN MODIFY AND USE IT IF YOU WANT!
+
 A Normal / Basic Bot That Cover All Basic Features / Commands For Beginners In Coding And Discord!
 
 # Exporting / Downloading
